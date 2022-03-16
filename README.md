@@ -1,5 +1,12 @@
 # flutter_resources
 
+## State management
+
+[Pragmatic State Management in Flutter (Google I/O'19)]https://www.youtube.com/watch?v=d_m5csmrf7I&list=PLjxrf2q8roU1UJ0OEpANodVMVm1GeE7Ti
+[Pragmatic State Management in Flutter (Google I/O'19) resource ](https://github.com/2d-inc/developer_quest)
+
+
+
 ## UI
 
 [SilverAppBar](https://www.youtube.com/watch?v=dc3B_mMrZ-Q)
